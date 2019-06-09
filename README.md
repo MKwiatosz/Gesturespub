@@ -3,7 +3,7 @@
 # <center> Gestures - Michał Kwiatosz group noº I </center>
 
 > This project is about having the ability to recognize gestures using your camera. With use of deep neural network model it is even possible to detect what kind of gesture it is. Isn't it amazing ?! :D
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Contributing](#contributing)
