@@ -19,7 +19,7 @@
 
 ### Work
 
-- In the project folder using command line (terminal) type in: `python real_time_gesture_detection.py` and have fun ??   
+- In the project folder using command line (terminal) type in: `python real_time_gesture_detection.py` and have fun ❤️   
 
 ## How it works?
 
