@@ -1,6 +1,6 @@
 <a href="http://fvcproductions.com"><img src="https://hbr.org/resources/images/article_assets/2019/04/F1903B_PAPERBOAT.jpg" title="Global_Terrorism" alt="Global_Terrorism"></a>
 
-# <center> Gestures - Micha³ Kwiatosz group no I </center>
+# <center> Gestures - MichaÅ‚ Kwiatosz group noÂº I </center>
 
 > This project is about having the ability to recognize gestures using your camera. With use of deep neural network model it is even possible to detect what kind of gesture it is. Isn't it amazing ?! :D
 ## Table of Contents (Optional)
@@ -73,7 +73,7 @@
 
 ## Team
 
-| <a href="https://github.com/MKwiatosz" target="_blank">**Micha³ Kwiatosz**</a> |
+| <a href="https://github.com/MKwiatosz" target="_blank">**MichaÂ³ Kwiatosz**</a> |
 | :---: |
 | [![FVCproductions](https://avatars1.githubusercontent.com/u/14980963?s=460&v=4s=200??s=100)](https://github.com/MKwiatosz)    |
 | <a href="https://github.com/MKwiatosz" target="_blank">`https://github.com/MKwiatosz`</a> |
